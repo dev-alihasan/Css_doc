@@ -38,3 +38,8 @@ div { }
 ```css
 [attr] { }
 ```
+>Targeting by Attribute Value:
+1. You can target elements with a specific attribute value.
+```css
+[attr='value'] { }
+```
