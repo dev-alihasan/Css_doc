@@ -27,3 +27,14 @@
 ```css
 div { }
 ```
+>Targeting by ID:
+1. You can target elements with a specific ID using a hash (#) followed by the ID name.
+2. IDs should be unique within a page.
+```css
+#id { }
+```
+>Targeting by Attribute Presence:
+1. You can target elements based on the presence of an attribute regardless of its value.
+```css
+[attr] { }
+```
