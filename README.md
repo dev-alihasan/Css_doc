@@ -15,3 +15,15 @@
 ```css
 .class1 { }
 ```
+
+ >Targeting by Multiple Classes:
+1. You can target elements that have multiple classes by chaining the class names together without spaces.
+```css
+.class1.class2 { }
+```
+>Targeting by Element Type:
+1. You can target elements based on their tag names directly.
+2. This will style all elements of that type on the page.
+```css
+div { }
+```
